@@ -1,9 +1,13 @@
-# Hospital Management System
-A Hospital Management System built using Python's Tkinter library for the GUI and MySQL for the database management. This application allows you to manage patient information, prescriptions, and other related data efficiently.
+# 🏥 Hospital Management System
 
-## Features
-- Add, update, delete, and view patient information.
-- Manage prescription data.
-- Interactive and user-friendly GUI.
-- Stores data in a MySQL database.
-- Generates and displays prescriptions.
+A comprehensive **Hospital Management System** built using **Python (Tkinter)** for the graphical user interface and **MySQL** for backend data management. This desktop application streamlines hospital operations by efficiently managing patient details, prescriptions, and medical records.
+
+---
+
+## ✅ Features
+
+- ➕ Add, ✏️ update, ❌ delete, and 📄 view patient information.
+- 💊 Manage and store prescription details.
+- 🖥️ Interactive and user-friendly **Tkinter-based GUI**.
+- 🗃️ Secure and structured data storage using **MySQL**.
+- 🧾 Auto-generates and displays patient prescriptions.
