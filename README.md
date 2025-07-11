@@ -86,9 +86,7 @@ hospital-management-system/
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots of the GUI here if available_
 
 ---
 
